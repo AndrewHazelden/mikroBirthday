@@ -1,0 +1,71 @@
+[DEVICE]
+Name=P33FJ256GP710A
+Clock=64000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=main.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=3
+File0=driver.c
+File1=main.c
+File2=resources.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=5
+File0=driver.c
+File1=main.c
+File2=resources.c
+File3=resources.h
+File4=driver.h
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=3
+Path0=C:\Program Files\Mikroelektronika\mikroC PRO for dsPIC\Defs\
+Path1=C:\Program Files\Mikroelektronika\mikroC PRO for dsPIC\uses\
+Path2=C:\Documents and Settings\PC\Desktop\MikroBirthday\Development\mikroBirthday code\
+[HEADER_PATH]
+Count=1
+Path0=C:\Documents and Settings\PC\Desktop\MikroBirthday\Development\mikroBirthday code\
+[HEADERS]
+Count=2
+File0=resources.h
+File1=driver.h
+[PLDS]
+Count=0
+[Useses]
+Count=10
+File0=TFT
+File1=TFT_Fonts
+File2=ADC
+File3=TFT_TouchPanel
+File4=C_Math
+File5=C_Stdlib
+File6=C_Type
+File7=C_String
+File8=UART
+File9=Conversions
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Node3=Output Files
+Count=3
